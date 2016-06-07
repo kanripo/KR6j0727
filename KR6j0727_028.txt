@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:38.599281
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:14
 #+TITLE: 首楞嚴經義海
 #+PROPERTY: CBETA_ID P168n1581
 #+PROPERTY: ID KR6j0727
@@ -663,7 +663,7 @@
 首楞嚴經義海卷第二十八　牧八
 <pb:KR6j0727_P_028-0877a>¶
 
-音釋¶
+* 音釋¶
 
 寤
 (五故切覺也)。
